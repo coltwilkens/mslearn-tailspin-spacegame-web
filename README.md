@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/testlabs22devops/devops-practitioner/_apis/build/status/coltwilkens.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/testlabs22devops/devops-practitioner/_build/latest?definitionId=6&branchName=main)
 
 # Contributing
 
